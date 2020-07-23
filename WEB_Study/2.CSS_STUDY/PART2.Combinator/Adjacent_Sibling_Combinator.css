@@ -1,0 +1,4 @@
+/* orange 클래스 다음으로 형제이면서 li태그인것 해당 */
+.orange + li{
+    color: orchid;
+}

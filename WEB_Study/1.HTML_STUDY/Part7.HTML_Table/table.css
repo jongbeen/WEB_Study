@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    /* 경계선 사라짐 */
+}
+
+td {
+    border: 1px solid red;
+    padding: 10px
+}
+
+th{
+    border: 1px solid red;
+    padding: 10px;
+    /* background-color: lightcoral; */
+
+}

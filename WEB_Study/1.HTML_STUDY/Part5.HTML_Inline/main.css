@@ -1,0 +1,25 @@
+a {
+    font-weight: bold;
+    width: 100px;
+    line-height: 40px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 6px;
+    display: block;
+    text-align: center;
+}
+
+/* 마우스를 해당 영역에 올렸을때 - hover*/
+a:hover{
+    background: orange;
+}
+
+img {
+    height: 800px;
+    width: 600px;
+
+}
+
+h2 {
+    margin-bottom: 1000px;
+}

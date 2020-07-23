@@ -1,0 +1,4 @@
+/* div의 자식요소중 orange 클래스 모두 해당 */
+div .orange {
+    color: orangered;
+}

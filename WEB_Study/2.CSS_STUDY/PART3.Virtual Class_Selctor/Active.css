@@ -1,0 +1,11 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rosybrown;
+    transition: 0.5s;
+}
+
+.box:active{
+    width: 200px;
+    background-color: royalblue;
+}

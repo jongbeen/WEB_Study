@@ -1,0 +1,7 @@
+.fruits {
+    font-size: 40px;
+}
+/* 첫번째 p타입 - fruits클래스 내부에서 */
+.fruits p:nth-of-type(1){
+    color: red;
+}

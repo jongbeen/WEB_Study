@@ -1,0 +1,4 @@
+/* ul의 자식요소중 해당 orange클래스만 */
+ul > .orange{
+    color:orange;
+}

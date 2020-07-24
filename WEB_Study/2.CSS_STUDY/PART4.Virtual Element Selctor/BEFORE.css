@@ -1,0 +1,11 @@
+ul {
+    font-size: 30px;
+}
+/* ul태그의 li 의 앞에 content 작성 */
+/* 모든 CSS효과들은 content에만 적용됨 */
+ul li::before{
+    content: "숫자";
+    font-weight: bold;
+    color: lightcoral;
+    margin-right: 20px;
+}

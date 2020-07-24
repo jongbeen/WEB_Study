@@ -1,0 +1,9 @@
+/* 강제 상속 = CUMPORSORY INHERITANCE */
+.parent {
+    position: absolute;
+    background-color: khaki;
+}
+.child {
+    position: inherit;
+    background-color: inherit;
+}

@@ -1,0 +1,9 @@
+/* content에는 url을 통해 이미지를 넣을 수 있다. */
+ul li::after{
+    /* content: ".0"; */
+    content: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdidTvjgPdvdjwtelmSx8kkV6mhHETmS18aQKb7f6vqEgIYKrf");
+    color: royalblue;
+    font-weight: bold;
+    font-size: 25px;
+
+}

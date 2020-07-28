@@ -1,0 +1,25 @@
+.box {
+    width: 400px;
+    height: 300px;
+    background-color: cornflowerblue;
+
+    /* 액자 모형, 안쪽이 밝은 색 */
+    /* border: 10px groove red; */
+
+    /* 액자 모형, 안쪽이 어두운 색 */
+    /* border: 10px ridge royalblue; */
+
+    /* 위쪽 음영 */
+    /* border: 10px inset rosybrown; */
+
+    /* 아래쪽 음영 */
+    border: 10px outset aliceblue;
+    margin-bottom: 40px;
+}
+
+.box2 {
+    width: 400px;
+    height: 300px;
+    background: darkorange;
+    border: 10px outset transparent;
+}

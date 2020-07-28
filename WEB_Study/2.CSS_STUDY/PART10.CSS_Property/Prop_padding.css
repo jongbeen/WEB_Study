@@ -1,0 +1,11 @@
+div {
+    width: 100px;
+    height: 100px;
+    background: tomato;
+    /* content 내부 - border간 영역이 멀어짐 */
+    /* margin은 바깥 영역, padding은 내부 영역 */
+    padding: 20px;
+    box-sizing: border-box;
+    /* padding을 추가하면 내부 padding영역이 0에서 조정한 만큼 커진다. */
+    /* 기존 의 width, height를 유지하는 속성이다. */
+}

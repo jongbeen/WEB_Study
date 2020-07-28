@@ -1,0 +1,7 @@
+.container {
+    width: 50vw;
+    /* 0~100까지의 값으로 viewport의 크기 지정 */
+    height: 100vh;
+    /* height: vh; = 0vh와 같은 의미 */
+    background-color: lightcoral;
+}

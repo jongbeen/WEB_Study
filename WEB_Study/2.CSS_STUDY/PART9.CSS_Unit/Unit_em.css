@@ -1,0 +1,19 @@
+body * {
+    border: 2px solid;
+}
+
+.container {
+    /* width: 600px; */
+    width: 60em;
+    font-size: 10px;
+}
+.parent {
+    /* width: 600px; */
+    width: 30em;
+    font-size: 2em;
+}
+.child {
+    /* width: 600px; */
+    width: 15em;
+    font-size: 2em;
+}

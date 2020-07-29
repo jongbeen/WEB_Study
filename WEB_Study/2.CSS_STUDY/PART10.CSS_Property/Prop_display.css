@@ -1,0 +1,14 @@
+input {
+    width: 100px;
+    height: 20px;
+    margin: 50px 0;
+    padding: 20px 0;
+}
+input:nth-child(2){
+    
+    /* 요소 완전 삭제 */
+    /* display: none; */
+
+    /* 요소 시각적 삭제 but, 실제로 존재 */
+    opacity: 0;
+}

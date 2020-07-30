@@ -1,0 +1,24 @@
+.parent {
+    line-height: 3;
+}
+.box {
+    /* 끝에 쉼표 붙이면 Error남 */
+    /* 브라우저에 따라 순차적으로 적용됨 */
+    font-family: Arial, "open Sans", "돋움" , sans-serif;
+}
+
+.serif {
+    font-family: serif;
+}
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
+.monospace {
+    font-family: monospace;
+}
+
+.cursive {
+    font-family: cursive;
+}

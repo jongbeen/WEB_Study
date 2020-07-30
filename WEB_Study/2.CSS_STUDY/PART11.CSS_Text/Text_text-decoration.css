@@ -1,0 +1,24 @@
+.EPL {
+    line-height: 3;
+}
+.first {
+    font: italic 30px sans-serif;
+    color: red;
+    text-indent: 50px;
+}
+
+.second {
+    text-decoration: royalblue overline;
+}
+
+.third {
+    text-decoration: aqua underline;
+}
+
+.fourth{
+    text-decoration: aqua underline;
+}
+
+.fifth {
+    text-decoration: orange line-through;
+}

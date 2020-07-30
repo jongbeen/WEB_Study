@@ -1,0 +1,15 @@
+.parent {
+    font: bold 30px sans-serif;
+}
+.parent .small {
+    /* 부모 요소의 글자 크기에 따라 결정 */
+    font: lighter 30px sans-serif;
+}
+
+.medium {
+    font: normal 30px sans-serif;
+}
+
+.big {
+    font: bold 30px sans-serif;
+}

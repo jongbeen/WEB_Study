@@ -1,0 +1,27 @@
+.box {
+
+    /* font: 기울기 두께 크기 / 줄높이 글꼴; */
+
+    /* Error */
+    /* font: 30px / 1.5; */
+    
+    /* Error */
+    /* font: bold; */
+
+    /* Error */
+    /* font: bold sans-serif;; */
+    
+    /* 정상 동작 */
+    font: 30px / 1.5 sans-serif;
+
+    /* 정상 동작 */
+    font: bold 30px sans-serif;
+
+    /* Error: 순서를 지키지 않아도 에러 */
+    /* font: 30px bold sans-serif */
+
+    /* 정상동작: "Arial", 은 리스트를 의미 */
+    font: italic 30px / 1.5 "Arial", sans-serif;
+
+
+}

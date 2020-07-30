@@ -1,0 +1,6 @@
+div {
+    font-size: 30px;
+    /* line-height: 45px; */
+    /* 같은 결과 */
+    line-height: 1.5;
+}

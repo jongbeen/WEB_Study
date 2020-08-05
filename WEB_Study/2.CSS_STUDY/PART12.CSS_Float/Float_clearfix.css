@@ -1,0 +1,21 @@
+/* 해당 class뒤에는 clear:both라는 content가 삽입됨 */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.float_box{
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    background: orange;
+    float:left;
+}
+
+
+.new-box{
+    width: 100px;
+    height: 80px;
+    background: red;
+}

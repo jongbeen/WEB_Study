@@ -1,0 +1,20 @@
+.parent {
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    border: 4px dashed gray;   
+    /* 이 코드를 추가하지 않으면 */
+    /* child의 기준은 window viewport */
+    position: relative;
+}
+
+.child {
+    width: 150px;
+    height: 100px;
+    background: tomato;
+    border-radius: 10px;
+    border: 4px dashed red;
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+}

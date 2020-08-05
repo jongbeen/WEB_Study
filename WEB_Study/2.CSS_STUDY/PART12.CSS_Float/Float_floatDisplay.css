@@ -1,0 +1,8 @@
+span {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: crimson;
+    /* 주석처리, 주석해제와 비교 */
+    float:left
+}
